@@ -84,6 +84,15 @@ Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTIN
 4.  Push to the branch (`git push origin feature/AmazingFeature`).
 5.  Open a **Pull Request**.
 
+
+## 💖 Support the Project
+
+Hyper Bridge is an open-source project developed in my free time. If this app has improved your daily experience, please consider supporting its development!
+
+<a href="https://github.com/sponsors/D4vidDf">
+  <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" width="150" alt="Sponsor"/>
+</a>
+
 ## 📜 License
 
 Distributed under the Apache 2.0 License. See `LICENSE` for more information.
